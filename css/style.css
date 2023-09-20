@@ -3,13 +3,13 @@
 }
 
 body{
-	line-height: 1.5em;
+	line-height: 1.9em;
 	font-family: Arial;
 	font-size: 1em;
 }
 
 h1{
-	font-size: 2.6em;
+	font-size: 2.5em;
 	line-height: 1.5em;
 	padding: 0 20px;
 }
@@ -22,7 +22,7 @@ h1{
 	border-radius: 5px;
   background-color: #f2f2f2;
   padding: 20px;
-	color: blue;
+	color: gray;
 }
 
 form{
@@ -48,7 +48,7 @@ form{
 	float: left;
 	background-color: gray;
   color: white;
-  padding: 12px 20px;
+  padding: 15px 20px;
   border: none;
   border-radius: 5px;
   margin: 8px 20px;
