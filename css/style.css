@@ -21,6 +21,18 @@ form{
 	text-align: center;
 }
 
+#wrap{
+	display: flex;
+	flex-wrap: wrap;
+	width: 100%;
+	margin: 0 auto;
+	border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+	color: gray;
+	text-align: center;
+}
+
 #email, #number, #dateOfBirth{
 	width: 100%;
   padding: 15px 20px;
